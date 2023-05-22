@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cheruto Tulwo
 - 👀 I’m interested in Data analytics, big data Engineering and Machine learning
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 💞️ I’m looking to collaborate on Machine Learning and Big data Projects
 - 📫 How to reach me linkedin: cheruto-tulwo-76b4a2225
 
 <!---
